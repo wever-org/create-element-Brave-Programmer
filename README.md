@@ -7,7 +7,7 @@ Example:
 Creating a h1 with color black css in h1 with h2 is the child
 
 Code 👇
->>> createElement("h1",{className: "test",style: {color: "black",},}, "<h2>1</h2>","#root");
+createElement("h1",{className: "test",style: {color: "black",},}, "<h2>1</h2>","#root");
 
 ### syntax
 
