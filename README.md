@@ -7,8 +7,11 @@ Example:
 Creating a h1 with color black css in h1 with h2 is the child
 
 Code 👇
+```js
 createElement("h1",{className: "test",style: {color: "black",},}, "<h2>1</h2>","#root");
+```
 
 ### syntax
-
->>> createElement(<<Tag Name Here>>,{className: <<Class Name Here>>,style: {<<Styling Here>>},}, "<<Children Here>>","<<Parent ID or Class Here>>");
+```js
+createElement(<<Tag Name Here>>,{className: <<Class Name Here>>,style: {<<Styling Here>>},}, "<<Children Here>>","<<Parent ID or Class Here>>");
+```
