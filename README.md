@@ -13,5 +13,5 @@ createElement("h1",{className: "test",style: {color: "black",},}, "<h2>1</h2>","
 
 ### syntax
 ```js
-createElement(<<Tag Name Here>>,{className: <<Class Name Here>>,style: {<<Styling Here>>},}, "<<Children Here>>","<<Parent ID or Class Here>>");
+createElement(<< Tag Name Here >>,{className: << Class Name Here >>,style: {<< Styling Here >>},}, "<< Children Here >>","<< Parent ID or Class Here >>");
 ```
